@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 ⚡ Code is my passion!
 
@@ -23,3 +24,4 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
